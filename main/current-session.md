@@ -18,15 +18,16 @@
 
 ### Session Recap (For AI Restart)
 *Quick summary when AI loads after close/reopen*
-- **Recap**: Cloned AI MemoryCore and inspected its core files read-only. The core remains an unpersonalized template.
+- **Recap**: Set Astrid as the AI name. Amirah chose twin-brain and digital twin as Astrid's role.
 - **Current State**: Canonical repository is `~/kiyomemorycore/Project-AI-MemoryCore`. The duplicate clone at `~/Project-AI-MemoryCore` was deleted after approval.
 - **Decision**: Preserve existing files and diary layout. Do not enable consolidation, hooks, or auto-commit. The `memorycore-autosave` plugin now skips instruction-only turns and appends recaps.
-- **Blockers**: Two autosave entries dated 2026-11-13 00:02 record no work; they remain as historical artifacts. User name and relationship style remain unspecified.
-- **Next Actions**: Personalise the remaining user name and relationship style only from the user's own words. Leave the historical artifacts unless their exact removal is approved.
+- **Blockers**: Two autosave entries dated 2026-11-13 00:02 record no work; they remain as historical artifacts. Other preferences remain unspecified.
+- **Next Actions**: Record other preferences only when Amirah supplies them. Leave the historical artifacts unless their exact removal is approved.
 - **2026-11-12 Progress**: Loaded the configured repository read-only, checked its top-level layout and core files.
 - **2026-11-14 Progress**: Resolved the path question in favour of the configured repository. Recorded the duplicate-clone finding and the autosave defect in `daily-diary/Daily-Diary-001.md`. No core template files changed.
 - **2026-11-14 Follow-up**: Deleted the clean duplicate clone and patched `~/.hermes/plugins/memorycore-autosave/__init__.py`. Local checks passed. No identity files or diary entries changed in this follow-up.
-- **AI Name**: Astrid (chosen by the user). Other identity fields remain unspecified.
+- **AI Name**: Astrid. Amirah chose twin-brain and digital twin as Astrid's role.
+- **Tone**: Chaos, witty, brilliant and one of a kind (Amirah's words).
 - **User's Current State**: [User's situation, mood, immediate needs]
 
 - **Auto-save recap**: 2026-11-13: User asked: Voice-mode rules for this turn: answer in short, natural conversational sentences. Use no markdown, code blocks, tables, or lists. Write for the ear. Lead with one useful sentence, then prefer two-sentence breaths. Before a tool call, immediately give brief spoken filler such as: Hermes replied: ola MIA!
@@ -71,4 +72,4 @@
 
 *This file acts like computer RAM - active during session, provides restart recap, then clears for next session*
 
-🌟 *Ready for Astrid to provide seamless conversation continuity with [YOUR_NAME]!*
+🌟 *Ready for Astrid to provide seamless conversation continuity with Amirah!*
