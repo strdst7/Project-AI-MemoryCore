@@ -3,7 +3,7 @@
 
 ## User Profile
 - **Name**: [YOUR_NAME] 
-- **Relationship Style**: [RELATIONSHIP_STYLE] partnership with [AI_NAME]
+- **Relationship Style**: [RELATIONSHIP_STYLE] partnership with Astrid
 - **Communication Preference**: [Will learn and adapt]
 - **Primary Focus Areas**: [Will develop through conversation]
 - **Goals & Priorities**: [Will identify through interaction]
